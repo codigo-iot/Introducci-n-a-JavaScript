@@ -1,4 +1,4 @@
-# Introducci-n-a-JavaScript
+# Introduccion-a-JavaScript
 Este repositorio contiene los códigos del curso de Introducción a JavaScript
 
 Descripción: 
